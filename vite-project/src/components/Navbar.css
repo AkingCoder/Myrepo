@@ -1,0 +1,17 @@
+
+ul{
+
+    padding: 5px;
+    background-color: crimson;
+    color:rgb(235, 217, 195);
+    height:6vh;
+    font-size: large;
+    font-weight: bold;
+    font-family: cursive;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    list-style-type: none;
+    box-sizing: border-box;
+}

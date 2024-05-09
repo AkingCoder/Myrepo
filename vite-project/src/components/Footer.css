@@ -1,0 +1,11 @@
+.footer{
+    background-color: royalblue;
+    color: whitesmoke;
+    font-family: cursive;
+    font-weight: bold;
+    height:4vh;
+    width: 100vw;
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+}
